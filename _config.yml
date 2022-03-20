@@ -1,9 +1,9 @@
 # Site settings
 title: Website Title
 description: Website short description
-baseurl: "" 
+baseurl: "https://github.com/cscdxu/cdxu.github.io" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
-url: "https://github.com/cscdxu/cdxu.github.io"  
+url: "https://cdxu.github.io"  
 
 
 # GitHub User settings
