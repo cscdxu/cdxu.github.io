@@ -1,16 +1,16 @@
 # Site settings
 title: Website Title
-description: Website short description
+description: Blog of Chendong Xu
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
 url: "https://cscdxu.github.io"  
 
 
 # GitHub User settings
-username: Username
-github_username: github_username
-user_description: user_description
-user_title: user_title
+username: cscdxu
+github_username: cscdxu
+user_description: A PHD with a broad interest
+user_title: PHD
 email: 
 
 # Blog Author settings
