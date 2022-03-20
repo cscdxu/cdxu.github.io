@@ -3,7 +3,7 @@ title: Website Title
 description: Website short description
 baseurl: "https://github.com/cscdxu/cscdxu.github.io" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
-url: "https://cdxu.github.io"  
+url: "https://cscdxu.github.io"  
 
 
 # GitHub User settings
