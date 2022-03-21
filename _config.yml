@@ -1,6 +1,6 @@
 # Site settings
-title: 个人主页
-description: 记录学习、生活、感悟
+title: Personal Homepage
+description: Poetic Dwelling
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
 url: "https://cscdxu.github.io"  
