@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2018-11-14
+Edit: 2022-03-21
 toc: false
 commentable: false
 protected: true
@@ -9,7 +9,7 @@ mathjax: true
 ---
 
 # Me
-
+My name is Chendong Xu ([Google Scholar](https://scholar.google.co.kr/citations?user=NIySL50AAAAJ&hl=en)). I am currently a graduate student at Yeshiva University, US. I major in Physics. 
 
 
 # This Site
@@ -64,4 +64,4 @@ Which has been beautifully put by Bruce Lee:
 
 # Contact
 
-The best way to reach me is via email: $namer$ @ $web.com$
+The best way to reach me is via email: $1219023433$ @ $njupt.edu.cn$
