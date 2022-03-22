@@ -1,14 +1,12 @@
 ---
-layout: post
-title: 李群和李群的李代数
+title: Sample Post - Markdown Syntax
+commentable: flase
+Edit: 2018-11-14
 mathjax: true
-categories: Topology Lie-group
-tags: Lie-algebra Lie-group
-keywords: Lie-algebra Lie-group
-description: My understanding of Lie-group and its Lie-algebra. The statement "Lie-algebra is approximation of Lie-group" is inaccurate since they essentially live in different spaces. This post is not finished. Check posts under [`Lie Group`](https://yk-liu.github.io/blog/tags#Lie-group) and/or [`Lie Algebra`](https://yk-liu.github.io/blog/tags#lie-algebra) where I rewrote and added more aspects of Lie group and Lie algebra.
 mermaid: true
-highlight: true
-status: Archived
+tags: tag1 tag2 tag3
+categories: sample post
+description: This is a sample post testing and demonstrating all the markdown syntaxes. In the description you can also use markdowns to do *A* **B** ***C*** and `D` and other stuff like a [link](https://yk-liu.github.io).
 ---
 
 1.清空：输入“clc”加回车，清空。
