@@ -10,6 +10,7 @@ layout: null
       "keywords"    : "{{ post.keywords | join: ', ' }}",
       "url"         : "{{ site.baseurl }}{{ post.url }}",
       "date"        : "{{ post.date }}",
+      "edit"        : "{{ post.edit }}",
       "description" : "{{ post.description }}",
       "content"     : {{ post.content | strip_html | strip_newlines | escape | jsonify }}
     } {% unless forloop.last %},{% endunless %}
