@@ -9,7 +9,7 @@ mathjax: true
 ---
 
 # Me
-My name is Chendong Xu ([Google Scholar](https://scholar.google.co.kr/citations?user=NIySL50AAAAJ&hl=en)). I am currently a graduate student at Yeshiva University, US. I major in Physics. 
+My name is Chendong Xu ([Google Scholar](https://scholar.google.co.kr/citations?user=NIySL50AAAAJ&hl=en)). I am currently a graduate student at NJUPT, China. I major in Signal Processing. 
 
 
 # This Site
@@ -50,17 +50,10 @@ Additional licensing information can be found YOUR WEBSITE LINK.
 
 # The Name
 
-I named this website "A Finger Pointing to the Moon", as in the Buddhism story:
+I named this website ***Poetic Dwelling***, as Martin Heidegger said:
+> **Voll Verdienst，doch dichterisch，wohnet der Mensch auf dieser Erde**
 
-> **佛告阿难。汝等尚以缘心听法。此法亦缘。非得法性。**
->
-> **若复观指以为月体。此人岂唯亡失月轮。亦亡其指。何以故。以所标指为明月故。**
->
-> **岂唯亡指。亦复不识明之与暗。何以故。即以指体。为月明性。明暗二性。无所了故。**
-
-Which has been beautifully put by Bruce Lee:
-
->It's like a finger pointing away to the moon. Don't concentrate on the finger or you will all that heavenly glory.
+> **在此一大地上的人，充满劳绩地栖居，然而也诗性地栖居**
 
 # Contact
 
