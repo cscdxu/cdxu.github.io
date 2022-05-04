@@ -1,3 +1,18 @@
+---
+layout: post
+title: deeplearning
+mathjax: true
+categories: code
+tags: deeplearning
+keywords: deeplearning
+description: Record deeplearning knowledge points
+mermaid: true
+highlight: true
+status: Archived
+type: mdpdf
+repopath: 2022-05-04-deeplearning-cn
+---
+
 #### 计算图
 
 不论是动态图还是静态图，它们都属于**计算图**。计算图是用来**描述运算的有向无环图**，它有两个主要元素:结点(Node)和边(Edge)。**结点表示数据**，如向量、矩阵、张量，而**边表示运算**，如加减乘除卷积等。
@@ -45,6 +60,6 @@ ToTensor()能够把灰度范围从0-255变换到0-1之间，而后面的transfor
 
 
 
-![image-20210708195347209](C:\Users\xcd\AppData\Roaming\Typora\typora-user-images\image-20210708195347209.png)
+![image-20210708195347209](https://github.com/cscdxu/cscdxu.github.io/edit/master/_posts/2022-05-04-deeplearning/image-20210708195347209.png)
 
 np.linspace主要用来创建等差数列
