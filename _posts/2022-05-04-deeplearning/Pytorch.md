@@ -58,6 +58,6 @@ repopath: 2022-05-04-deeplearning-cn
 
 ToTensor()能够把灰度范围从0-255变换到0-1之间，而后面的transform.Normalize()则把0-1变换到(-1,1).
 
-<img src ="https://github.com/cscdxu/cscdxu.github.io/blob/master/_posts/2022-05-04-deeplearning/image-20210708195347209.png" />
+![Image](https://github.com/cscdxu/cscdxu.github.io/blob/master/_posts/2022-05-04-deeplearning/image-20210708195347209.png)
 
 np.linspace主要用来创建等差数列
