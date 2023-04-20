@@ -1,1 +1,14 @@
-
+---
+layout: post
+title: deeplearning
+mathjax: true
+categories: code
+tags: deeplearning
+keywords: deeplearning
+description: Record deeplearning knowledge points
+mermaid: true
+highlight: true
+status: Archived
+type: mdpdf
+repopath: 2023-04-30-deeplearning-cn
+---
