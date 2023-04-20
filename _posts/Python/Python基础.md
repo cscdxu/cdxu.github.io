@@ -10,7 +10,7 @@ mermaid: true
 highlight: true
 status: Archived
 type: mdpdf
-repopath: 2022-05-04-python-cn
+repopath: 2023-03-20-python-cn
 ---
 
 莫烦Python基础
