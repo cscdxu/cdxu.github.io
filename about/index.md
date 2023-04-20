@@ -9,7 +9,7 @@ mathjax: true
 ---
 
 # Me
-My name is Chendong Xu ([Google Scholar](https://scholar.google.co.kr/citations?user=NIySL50AAAAJ&hl=en)). I am currently a graduate student at NJUPT, China. I major in Signal Processing. 
+My name is Chendong Xu ([Google Scholar](https://scholar.google.co.kr/citations?user=NIySL50AAAAJ&hl=en)). I am currently a graduate student at SEU, China. I major in Signal Processing. 
 
 
 # This Site
