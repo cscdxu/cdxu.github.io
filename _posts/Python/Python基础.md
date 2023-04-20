@@ -1,3 +1,18 @@
+---
+layout: post
+title: Python
+mathjax: true
+categories: code
+tags: Python
+keywords: Python
+description: Record Python knowledge points
+mermaid: true
+highlight: true
+status: Archived
+type: mdpdf
+repopath: 2022-05-04-python-cn
+---
+
 莫烦Python基础
 
 ## 变量与运算
