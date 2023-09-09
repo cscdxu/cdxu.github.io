@@ -3,4 +3,4 @@ Disallow: /about/CV-of-Liu-Yingkai.pdf
 Disallow: /secret/
 Disallow: /secret
 
-SITEMAP: https://cscdxu.github.io/sitemap.xml
+SITEMAP: https://eecdxu.github.io/sitemap.xml
